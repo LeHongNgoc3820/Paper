@@ -19,6 +19,6 @@ ___
 ___
 |STT|Tên hội thi|Năm|Thành tích|
 |:---:|---------|:---:|:------:|
-|1|Hội thi khoa học sinh viên toàn quốc "Olympic Kinh tế lượng và Ứng dụng" lần thứ V - năm 2020 (Học viện Tài chính)|2020|Giải Nhì|
+|1|Hội thi khoa học sinh viên **toàn quốc** "Olympic Kinh tế lượng và Ứng dụng" lần thứ V - năm 2020 (Học viện Tài chính)|2020|Giải Nhì|
 |2|Hội thi "Olympic Thống kê, Kinh tế lượng và Ứng dụng" năm 2021 (Đại học Kinh tế - Luật)|2021|1 Giải Nhì, 1 Giải Khuyến khích|
 |3|Giải thưởng "Tài năng kinh tế trẻ" lần thứ 10 - năm 2021 (Đại học Tài chính - Marketing)|2021|Giải ba|
