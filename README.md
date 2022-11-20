@@ -13,3 +13,12 @@ ___
 |STT|Tên đề tài|Năm bắt đầu/Năm kết thúc|Đề tài cấp (NN, Bộ, Ngành, Trường)|Trách nhiệm tham gia trong đề tài|Link bài viết|
 |:---:|--------|:----------------------:|:--------------------------------:|:-------------------------------:|:-----------:|
 |1|Tăng trưởng kinh tế và ô nhiễm môi trường tại Việt Nam và các quốc gia châu Á.|2020/2021|Cấp thành phố (đã nghiệm thu)|Thành viên|[Tại đây](https://drive.google.com/file/d/1aVVpEjySmi-MZ_p204OEL8_UB4uyPXNK/view?usp=sharing)|
+
+
+## THÀNH TÍCH NGHIÊN CỨU KHOA HỌC SINH VIÊN
+___
+|STT|Tên hội thi|Năm|Thành tích|
+|:---:|---------|:---:|:------:|
+|1|Hội thi khoa học sinh viên toàn quốc "Olympic Kinh tế lượng và Ứng dụng" lần thứ V - năm 2020 (Học viện Tài chính)|2020|Giải Nhì|
+|2|Hội thi "Olympic Thống kê, Kinh tế lượng và Ứng dụng" năm 2021 (Đại học Kinh tế - Luật)|2021|1 Giải Nhì, 1 Giải Khuyến khích|
+|3|Giải thưởng "Tài năng kinh tế trẻ" lần thứ 10 - năm 2021 (Đại học Tài chính - Marketing)|2021|Giải ba|
