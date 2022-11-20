@@ -12,7 +12,7 @@ ___
 ___
 |Tên đề tài|Năm bắt đầu/Năm kết thúc|Đề tài cấp (NN, Bộ, Ngành, Trường)|Trách nhiệm tham gia trong đề tài|Link bài viết|
 |--------|:----------------------:|:--------------------------------:|:-------------------------------:|:-----------:|
-|Tăng trưởng kinh tế và ô nhiễm môi trường tại Việt Nam và các quốc gia châu Á.|2020/2021|Cấp thành phố (đã nghiệm thu)|Thành viên|[Tại đây](https://drive.google.com/file/d/1aVVpEjySmi-MZ_p204OEL8_UB4uyPXNK/view?usp=sharing)|
+|Tăng trưởng kinh tế và ô nhiễm môi trường tại Việt Nam và các quốc gia châu Á.|2020/2021|Cấp thành phố|Thành viên|[Tại đây](https://drive.google.com/file/d/1aVVpEjySmi-MZ_p204OEL8_UB4uyPXNK/view?usp=sharing)|
 
 
 ## THÀNH TÍCH NGHIÊN CỨU KHOA HỌC SINH VIÊN
