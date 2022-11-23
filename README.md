@@ -21,5 +21,5 @@ ___
 |STT|Tên hội thi|Năm|Thành tích|
 |:---:|---------|:---:|:------:|
 |1|Hội thi khoa học sinh viên **toàn quốc** "Olympic Kinh tế lượng và Ứng dụng" lần thứ V - năm 2020 (Học viện Tài chính)|2020|[Giải Nhì](https://drive.google.com/file/d/1A-0PzWwWrZvaCs-r8QBIwHDFSSDQWzVA/view?usp=sharing)|
-|2|Hội thi "Olympic Thống kê, Kinh tế lượng và Ứng dụng" năm 2021 (Đại học Kinh tế - Luật)|2021|[1 Giải Nhì](https://drive.google.com/file/d/1goimmemnucV-zN8VJ3i5ea0j5lg92Bt3/view?usp=sharing), [1 Giải Khuyến khích](https://drive.google.com/file/d/1DarfDF5niV0onotfOqSXy5X2V1AqYWi8/view?usp=sharing)|
+|2|Hội thi "Olympic Thống kê, Kinh tế lượng và Ứng dụng" năm 2021 (Đại học Kinh tế - Luật)|2021|[1 Giải Nhì,](https://drive.google.com/file/d/1goimmemnucV-zN8VJ3i5ea0j5lg92Bt3/view?usp=sharing) [1 Giải Khuyến khích](https://drive.google.com/file/d/1DarfDF5niV0onotfOqSXy5X2V1AqYWi8/view?usp=sharing)|
 |3|Giải thưởng "Tài năng kinh tế trẻ" lần thứ 10 - năm 2021 (Đại học Tài chính - Marketing)|2021|[Giải ba](https://drive.google.com/file/d/1hBBbhYm9HHCvFywLWl5P75VxKZGll0JB/view?usp=sharing)|
