@@ -1,6 +1,6 @@
 ## DANH SÁCH BÀI BÁO, HỘI THẢO KHOA HỌC
 ___
-|Năm xuất bản|Nội dung|Loại|Link bài viết|
+|Năm|Nội dung|Loại|Link|
 |:---:|--------|:------------:|:-------------:|
 |2022|Le Hong Ngoc et al. (2022). Threshold effects in the relationship between institutional quality and economic growth: Empirical evidence in developing countries. *Proceeding of the 4th international conference on Finance and Accounting for the promotion of sustainable development in private sector (FASPS-4),* 758-776.|Conference|[Tại đây](https://drive.google.com/file/d/16pmXCE25fKXjhQoegZapN0WBXilzs3ZY/view?usp=sharing)|
 |2022|Lê Hồng Ngọc và cộng sự (2022). Tác động phi tuyến của chất lượng thể chế đến ô nhiễm môi trường tại các quốc gia đang phát triển châu Á. *Tạp chí Kinh tế và Phát triển,* số 302, 23-31.|Paper|[Tại đây](https://drive.google.com/file/d/1RIb28TNqy_ylkxGQ0eAuBGIQNfN6oMKF/view?usp=sharing)|
